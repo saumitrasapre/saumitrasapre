@@ -1,8 +1,8 @@
 # Henlo 👋 Saumitra here
-#### Developer. Nocturnal. Human
+## Developer. Nocturnal. Human.
 Always interested in anything cool, interesting, captivating and awesome  in any framework or technology that will make life easier for people, or is at least fascinating to look at and work with.
 
-Skills: Java / Android/ Flutter/ Python/ C++
+**Skills: Java / Android/ Flutter/ Python/ C++**     <img src="https://github.com/saumitrasapre/saumitrasapre/blob/main/code_cat.gif" align="right" height = 400 width = 400/>
 
 - 🔭 I’m currently working on chatbots 
 - 🌱 I’m currently learning rasa framework 
