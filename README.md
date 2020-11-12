@@ -8,7 +8,7 @@ Always interested in anything cool, interesting, captivating and awesome  in any
 - 🌱 I’m currently learning rasa framework 
 - 🤔 I’m looking for help with umm... idk... Everyone gets stuck with something somewhere 
 - 📫 How to reach me: saumitrasapre69@gmail.com 
-- ⚡ Fun fact: Time flies like an arrow, but fruit flies like an arrow 
+- ⚡ Fun fact: Time flies like an arrow, but fruit flies like a banana 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saumitrasapre)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saumitra-sapre-4209b6190/)
