@@ -5,9 +5,8 @@ Always interested in anything cool, interesting, captivating and awesome  in any
 **Skills: Java / Android/ Flutter/ Python/ C++**     <img src="https://github.com/saumitrasapre/saumitrasapre/blob/main/code_cat.gif" align="right" height = 400 width = 400/>
 
 - 🔭 I’m currently working on chatbots 
-- 🌱 I’m currently learning rasa framework 
-- 🤔 I’m looking for help with umm... idk... Everyone gets stuck with something somewhere 
-- 📫 How to reach me: saumitrasapre69@gmail.com 
+- 🌱 I’m currently learning the rasa framework  
+- 📫 How to reach me: saumitrasapre20599@gmail.com 
 - ⚡ Fun fact: Time flies like an arrow, but fruit flies like a banana 
 
 
