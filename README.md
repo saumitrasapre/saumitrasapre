@@ -6,7 +6,6 @@ Interested in stuff that's fascinating to look at and work with.
 
 - 🔭 I’m currently working on chatbots 
 - 🌱 I’m currently learning the rasa framework  
-- 📫 How to reach me: saumitrasapre20599@gmail.com 
 - ⚡ Fun fact: Time flies like an arrow, but fruit flies like a banana 
 
 
