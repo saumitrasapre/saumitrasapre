@@ -4,9 +4,7 @@ Interested in stuff that's fascinating to look at and work with.
 
 **Skills: Java / Android/ Flutter/ Python/ C++**     <img src="https://github.com/saumitrasapre/saumitrasapre/blob/main/code_cat.gif" align="right" height = 400 width = 400/>
 
-- 🔭 I’m currently working on chatbots 
-- 🌱 I’m currently learning the rasa framework  
-- ⚡ Fun fact: Time flies like an arrow, but fruit flies like a banana 
+⚡ Fun fact: Time flies like an arrow, but fruit flies like a banana 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saumitrasapre)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saumitra-sapre-4209b6190/)
