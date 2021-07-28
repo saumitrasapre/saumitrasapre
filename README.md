@@ -1,6 +1,5 @@
 # Henlo 👋 Saumitra here
-## Nocturnal. Human. Developer.
-Interested in stuff that's fascinating to look at and work with.
+Perpetually interested in stuff that's fascinating to look at and work with.
 
 **Skills: Java / Android/ Flutter/ Python/ C++**     <img src="https://github.com/saumitrasapre/saumitrasapre/blob/main/code_cat.gif" align="right" height = 400 width = 400/>
 
