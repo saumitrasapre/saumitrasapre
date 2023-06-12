@@ -2,7 +2,7 @@
 # Henlo 👋 Saumitra here <img src="https://github.com/saumitrasapre/saumitrasapre/blob/main/code_cat.gif" align="right" height = 200 width = 200 style="border-radius:50%"/>
 Perpetually interested in stuff that's fascinating to look at and work with.
 
-**Skills: Java / Android/ Flutter/ Python/ C++/ Unreal Engine**     
+**Skills: Java / Android/ Flutter/ Python/ C++/ Unity 3D/ Unreal Engine**     
 
 ⚡ Fun fact: Time flies like an arrow, but fruit flies like a banana 
 
