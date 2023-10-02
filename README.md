@@ -1,6 +1,6 @@
 
-# Henlo 👋 Saumitra here <img src="https://github.com/saumitrasapre/saumitrasapre/blob/main/code_cat.gif" align="right" height = 200 width = 200 style="border-radius:50%"/>
-Perpetually interested in stuff that's fascinating to look at and work with.
+# Henlo 👋 Saumitra here 
+Perpetually interested in stuff that's fascinating to look at and work with. <img src="https://github.com/saumitrasapre/saumitrasapre/blob/main/code-cat-round.gif" align="right" height = 300 width = 282 style="border-radius:50%"/>
 
 **Skills: Java / Android/ Flutter/ Python/ C++/ Unity 3D/ Unreal Engine**     
 
